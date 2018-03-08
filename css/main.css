@@ -1090,7 +1090,7 @@ pre .javascript .function {
   bottom: 19px;
 }
 .header {
-  background: transparent;
+  background: url("../image/banner.jpg");
 }
 .header-inner {
   position: relative;
@@ -1832,7 +1832,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff05ff;
+  background: #04ffff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2912,5 +2912,16 @@ hr {
   .footer-inner {
     width: auto;
     text-align: center;
+  }
+}
+@media screen and (min-width: 1200px) {
+  body {
+    background-image: url("../images/banner.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% 50%;
+  }
+  #footer a {
+    color: #eee;
   }
 }
