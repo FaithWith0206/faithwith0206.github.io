@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-09T08:00:12.514Z</updated>
+  <updated>2018-03-09T08:44:01.076Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,34 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>《贪吃蛇-饥荒版》玩法介绍与讨论</title>
-    <link href="http://yoursite.com/2018/03/09/game-demo/"/>
-    <id>http://yoursite.com/2018/03/09/game-demo/</id>
-    <published>2018-03-09T07:22:32.000Z</published>
-    <updated>2018-03-09T08:00:12.514Z</updated>
-    
-    <content type="html"><![CDATA[<p>将在经典贪吃蛇玩法的基础上添加一个饥荒模式<br>饥荒模式简介：<br>1.小蛇本身会随着时间的推移，蛇身会越来越短。<br>2.玩家可以切换蛇的移动速度来搜集场景中的事物，速度快搜集的快，但危险也大大加大。<br>3.游戏分为四个阶段——春，夏，秋，冬。<br>  <1>春季:小蛇发育期，身体不会缩短，小蛇每吃一个食物，身体会长两格。（春季疯狂的吃吧）<br>  <2>夏季:小蛇稳定期，身体不会缩短，小蛇每吃一个食物，身体会长一格。<br>  <3>秋季:小蛇紊乱期，每隔一段时间身体缩短一格，小蛇每吃一个食物，身体会长一格。<br>  <4>冬季:我就不冬眠，我要跟饥饿奋战到底。（想尽一切办法，活下去）</4></3></2></1></p><p>对此游戏，你有什么建议，或者有什么新的贪吃蛇玩法，都可以在地下留言。</p><p>无愧-为您千千万万遍</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;将在经典贪吃蛇玩法的基础上添加一个饥荒模式&lt;br&gt;饥荒模式简介：&lt;br&gt;1.小蛇本身会随着时间的推移，蛇身会越来越短。&lt;br&gt;2.玩家可以切换蛇的移动速度来搜集场景中的事物，速度快搜集的快，但危险也大大加大。&lt;br&gt;3.游戏分为四个阶段——春，夏，秋，冬。&lt;br&gt;  &lt;1&gt;
-      
-    
-    </summary>
-    
-      <category term="games" scheme="http://yoursite.com/categories/games/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>说说那些让你印象深刻的游戏</title>
     <link href="http://yoursite.com/2018/03/09/topic-demo/"/>
     <id>http://yoursite.com/2018/03/09/topic-demo/</id>
-    <published>2018-03-09T07:20:31.000Z</published>
-    <updated>2018-03-09T08:22:52.643Z</updated>
+    <published>2018-03-09T08:20:31.000Z</published>
+    <updated>2018-03-09T08:44:01.076Z</updated>
     
     <content type="html"><![CDATA[<p>有那么几款游戏，只要说出名字，脑海中就会浮现出难忘的画面</p><p>童年要是没玩过 《超级玛丽》 和 《魂斗罗》 ，那岂不是少了很多乐子。</p><p>初中要是没搓过 《幽游白书》，可能会少几个基友。</p><p>高中要是没去网吧打过 《红警》 和 《DOTA》 ，那高中好像有点不完整。</p><p>大学四年，《仙剑奇侠传》、《刺客信条》、《极品飞车》、《CF》、《LOL》、《DNF》、《捣蛋猪》每一款游戏都有它自己的宿舍故事。</p><p>现在你是在《王者荣耀》、《阴阳师》、《荒野求生》、《仁王》、《塞尔达》还是… …</p><p>说出那些让你印象深刻的游戏，来吧，一起聊。</p><p>（底下评论即可，来吧，聊几分钟的，不收费！！！）</p>]]></content>
     
@@ -61,6 +38,29 @@
     </summary>
     
       <category term="topics" scheme="http://yoursite.com/categories/topics/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>《贪吃蛇-饥荒版》玩法介绍与讨论</title>
+    <link href="http://yoursite.com/2018/03/09/game-demo/"/>
+    <id>http://yoursite.com/2018/03/09/game-demo/</id>
+    <published>2018-03-09T07:22:32.000Z</published>
+    <updated>2018-03-09T08:48:05.683Z</updated>
+    
+    <content type="html"><![CDATA[<p>将在经典贪吃蛇玩法的基础上添加一个饥荒模式<br>饥荒模式简介：<br>1.小蛇本身会随着时间的推移，蛇身会越来越短。<br>2.玩家可以切换蛇的移动速度来搜集场景中的事物，速度快搜集的快，但危险也大大加大。<br>3.游戏分为四个阶段——春，夏，秋，冬。<br>  <1>春季:小蛇发育期，身体不会缩短，小蛇每吃一个食物，身体会长两格。（春季疯狂的吃吧）<br>  <2>夏季:小蛇稳定期，身体不会缩短，小蛇每吃一个食物，身体会长一格。<br>  <3>秋季:小蛇紊乱期，每隔一段时间身体缩短一格，小蛇每吃一个食物，身体会长一格。<br>  <4>冬季:我就不冬眠，我要跟饥饿奋战到底。（想尽一切办法，活下去）</4></3></2></1></p><p>对此游戏，你有什么建议，或者有什么新的贪吃蛇玩法，都可以在地下留言。</p><p>无愧-为您千千万万遍</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;将在经典贪吃蛇玩法的基础上添加一个饥荒模式&lt;br&gt;饥荒模式简介：&lt;br&gt;1.小蛇本身会随着时间的推移，蛇身会越来越短。&lt;br&gt;2.玩家可以切换蛇的移动速度来搜集场景中的事物，速度快搜集的快，但危险也大大加大。&lt;br&gt;3.游戏分为四个阶段——春，夏，秋，冬。&lt;br&gt;  &lt;1&gt;
+      
+    
+    </summary>
+    
+      <category term="games" scheme="http://yoursite.com/categories/games/"/>
     
     
   </entry>
